@@ -1,1 +1,10 @@
 
+## 📌 Project Introduction
+
+In today’s digital ecosystem, social media platforms like Instagram play a crucial role in shaping brand identity, audience engagement, and business growth. However, with thousands of posts being published daily, it becomes challenging to identify what truly drives engagement and visibility.
+
+This project focuses on analyzing Instagram post-level data to uncover meaningful patterns and actionable insights that can help improve content strategy and audience growth. By leveraging a combination of Python for data preprocessing, SQL for analytical querying, and Power BI for visualization, this project transforms raw data into a structured, insight-driven dashboard.
+
+The analysis explores key factors such as media type, content category, posting time, traffic sources, and engagement metrics to understand their impact on overall performance. The goal is to move beyond basic reporting and provide data-backed recommendations that can support better decision-making for content creators and businesses.
+
+This project demonstrates an end-to-end data analytics workflow — from data cleaning and transformation to visualization and insight generation — with a strong focus on solving real-world social media business problems.
